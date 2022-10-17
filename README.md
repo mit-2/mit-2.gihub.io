@@ -1,1 +1,1 @@
-# mit-2.gihub.io
+# mit-2.github.io
